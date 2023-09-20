@@ -1,2 +1,10 @@
+# Proyecto de puebas
+
+## Descripción
 Este es un proyecto de prueba.
-Vamos a ver como funciona GIT.
+
+Vamos a ver cómo funciona GIT.
+
+## Autores
+
+- Christian Tomás
